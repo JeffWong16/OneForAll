@@ -20,7 +20,7 @@
 * [性能优化](#performance)
 * [安全](#security)
 * [框架](#framework)
-
+* [干，才有希望](#just-do-it)
 
 # <a id="basic"></a>基础知识
 
@@ -48,7 +48,7 @@
 
 ### <a id="compiler"></a> 编译原理
 
-* [babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
+
 
 # <a id="tools"></a>工程化与工具
 
@@ -56,6 +56,18 @@
 
   * [Webpack 核心库 Tapable 的使用与原理解析](https://juejin.im/post/5e0fef78e51d4541296e9fbd)
   
+## <a id="babel"></a>babel 
+
+* [babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
+  
 # <a id="performance"></a>性能优化
+
 # <a id="security"></a>安全
+
 # <a id="framework"></a>框架
+
+# <a id="just-do-it"></a>干，才有希望!
+
+坐而论道，不如退而结网。实践出真知。干，才有希望
+
+* [嘿，不要给 async 函数写那么多 try/catch 了](https://juejin.im/post/5d25b39bf265da1bb67a4176): 写一个webpack loader, 利用babel给每个async函数自动添加 try/catch
