@@ -8,7 +8,9 @@
   * [this](#this)
   * [Date](#date)
   * [正则表达式](#regexp)
-* [编译原理](#compiler)
+* [浏览器工作原理](#browser)
+ * [页面渲染原理](#render)
+ * [编译原理](#compiler)
 * [开发工具](#tools)
   * [webpack](#webpack)
 
@@ -26,7 +28,13 @@
 
 * [JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
 
-# <a id="compiler"></a> 编译原理
+# <a id="browser"></a>浏览器工作原理
+
+### <a id="render"></a>页面渲染原理
+
+* [一篇文章说清浏览器解析和CSS（GPU）动画优化](https://segmentfault.com/a/1190000008015671)
+
+### <a id="compiler"></a> 编译原理
 
 * [babel-handbook](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/README.md)
 
