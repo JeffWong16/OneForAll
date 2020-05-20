@@ -81,3 +81,4 @@
 坐而论道，不如退而结网。实践出真知。干，才有希望
 
 * [嘿，不要给 async 函数写那么多 try/catch 了](https://juejin.im/post/5d25b39bf265da1bb67a4176): 写一个webpack loader, 利用babel给每个async函数自动添加 try/catch
+* [单点登录](https://yq.aliyun.com/articles/636281)
