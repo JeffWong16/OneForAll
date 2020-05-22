@@ -16,6 +16,7 @@
  * [页面渲染原理](#render)
  * [编译原理](#compiler)
 * [工程化与工具](#tools)
+  * [npm](#npm)
   * [babel](#babel)
   * [webpack](#webpack)
 * [性能优化](#performance)
@@ -57,6 +58,10 @@
 
 
 # <a id="tools"></a>工程化与工具
+
+## <a id="npm"><a>npm
+ 
+ * [npm知识梳理](https://juejin.im/post/5ab3f77df265da2392364341)
 
 ## <a id="webpack"></a>webpack 
 
