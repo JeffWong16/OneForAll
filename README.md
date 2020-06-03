@@ -12,6 +12,7 @@
     * [正则表达式](#regexp)
    * [css](#css)
    * html
+   * [nginx](#nginx)
 * [浏览器工作原理](#browser)
  * [页面渲染原理](#render)
  * [编译原理](#compiler)
@@ -46,6 +47,10 @@
 * [JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
 
 ## <a id="css"></a>css
+
+## <a id="nginx"></a>nginx
+
+* [Nginx 从入门到实践，万字详解！](https://juejin.im/post/5ea931866fb9a043815146fb)
 
 # <a id="browser"></a>浏览器工作原理
 
