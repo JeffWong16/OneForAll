@@ -25,6 +25,8 @@
   * [CSRF](#csrf)
 * [框架](#framework)
 * [工具](#tools)
+  * [chrome](#chrome)
+  * [linux](#linux)
 * [干，才有希望](#just-do-it)
 
 # <a id="basic"></a>基础知识
@@ -89,6 +91,12 @@
 
 # <a id="tools"></a> 工具
 
+### chrome
+
+ * [chrome dev-tools实用官方文档](https://developers.google.cn/web/tools/chrome-devtools)
+ * [chrome工具调试技巧](https://juejin.im/post/5c09a80151882521c81168a2)
+ 
+### <a id="linux"></a>linux
 * [curl](https://www.ruanyifeng.com/blog/2019/09/curl-reference.html)
 
 # <a id="just-do-it"></a>干，才有希望!
