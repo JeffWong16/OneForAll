@@ -13,9 +13,10 @@
    * [css](#css)
    * html
    * [nginx](#nginx)
+   * [综合基础](#others)
 * [浏览器工作原理](#browser)
- * [页面渲染原理](#render)
- * [编译原理](#compiler)
+  * [页面渲染原理](#render)
+  * [编译原理](#compiler)
 * [工程化与工具](#tools)
   * [npm](#npm)
   * [babel](#babel)
@@ -52,6 +53,10 @@
 ## <a id="css"></a>css
 
 ## <a id="nginx"></a>nginx
+
+## <a id="others"></a>综合基础
+
+* [移动端适配](https://juejin.im/post/5cddf289f265da038f77696c)
 
 * [Nginx 从入门到实践，万字详解！](https://juejin.im/post/5ea931866fb9a043815146fb)
 
