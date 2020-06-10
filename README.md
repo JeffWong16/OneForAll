@@ -6,10 +6,6 @@
 
 * [基础知识](#basic)
   * [javascript](#javascript)
-    * [this](#this)
-    * [Date](#date)
-    * [Cookie](#cookie)
-    * [正则表达式](#regexp)
    * [css](#css)
    * html
    * [nginx](#nginx)
@@ -34,20 +30,10 @@
 
 ## <a id="javascript"></a>javascript
 
-### <a id="this"></a>this
-
 * [通过试题检验this理解](https://juejin.im/post/5e9bdcaf6fb9a03c4f3f9e32)
-
-### <a id="regexp"></a>Date
-
 * [时区与JS中的Date对象](https://juejin.im/post/5d23ef766fb9a07ea5681378)
-
-### <a id="cookie"></a>Cookie
-
 * [Cookie 的 SameSite 属性](https://juejin.im/post/5e718ecc6fb9a07cda098c2d)
-
-### <a id="date"></a>正则表达式
-
+* [Blob](https://mp.weixin.qq.com/s/ismyY2EOUMwFqBuen5EUUg)
 * [JS正则表达式完整教程](https://juejin.im/post/5965943ff265da6c30653879)
 
 ## <a id="css"></a>css
