@@ -88,6 +88,7 @@
 ## <a id="react"></a> React
 
 * [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
+* [理解React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85)
 
 ## <a id="vue"></a> Vue
 
