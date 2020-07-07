@@ -89,6 +89,7 @@
 
 * [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
 * [理解React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85)
+* [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
 
 ## <a id="vue"></a> Vue
 
