@@ -87,6 +87,7 @@
 
 ## <a id="react"></a> React
 
+* [setState的执行机制](https://juejin.im/post/5c71050ef265da2db27938b5)
 * [useEffect 完整指南](https://overreacted.io/zh-hans/a-complete-guide-to-useeffect/)
 * [理解React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85)
 * [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data)
