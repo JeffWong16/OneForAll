@@ -113,6 +113,7 @@
 
 * [嘿，不要给 async 函数写那么多 try/catch 了](https://juejin.im/post/5d25b39bf265da1bb67a4176): 写一个webpack loader, 利用babel给每个async函数自动添加 try/catch
 * [单点登录](https://yq.aliyun.com/articles/636281)
+* [如何精确统计页面停留时长](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651229597&idx=1&sn=a536d322bd8ccef713637fc93c103a28&chksm=bd4954198a3edd0fad4ccb256a9690854ec14452c7093e2246766b54f65ac397507d128669da&mpshare=1&scene=24&srcid=0702NbTSDFPJ2dUHQjmybIJW&sharer_sharetime=1593652564479&sharer_shareid=36c77ca9d73750759b5ee6792976e2bc#rd)
 
 # <a id="cool-site"></a> 趣站
 
