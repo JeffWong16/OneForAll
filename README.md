@@ -30,7 +30,6 @@
 * [趣站](#cool-site)
 
 # <a id="basic"></a>基础知识
-* [字符与编码]（https://www.ruanyifeng.com/blog/2014/12/unicode.html）
 
 ## <a id="javascript"></a>javascript
 
@@ -50,6 +49,8 @@
 ## <a id="others"></a>综合基础
 
 * [移动端适配](https://juejin.im/post/5cddf289f265da038f77696c)
+* [字符与编码](https://www.ruanyifeng.com/blog/2014/12/unicode.html)
+
 
 # <a id="browser"></a>浏览器工作原理
 
