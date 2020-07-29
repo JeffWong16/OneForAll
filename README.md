@@ -30,6 +30,7 @@
 * [趣站](#cool-site)
 
 # <a id="basic"></a>基础知识
+* [字符与编码]（https://www.ruanyifeng.com/blog/2014/12/unicode.html）
 
 ## <a id="javascript"></a>javascript
 
