@@ -34,6 +34,7 @@
 ## <a id="javascript"></a>javascript
 
 * [通过试题检验this理解](https://juejin.im/post/5e9bdcaf6fb9a03c4f3f9e32)
+* [隐式转化]（https://juejin.im/post/6844903829482242055）
 * [时区与JS中的Date对象](https://juejin.im/post/5d23ef766fb9a07ea5681378)
 * [Cookie 的 SameSite 属性](https://juejin.im/post/5e718ecc6fb9a07cda098c2d)
 * [Blob](https://mp.weixin.qq.com/s/ismyY2EOUMwFqBuen5EUUg)
