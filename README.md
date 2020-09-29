@@ -54,6 +54,7 @@
 
 * [三次握手与四次挥手](https://juejin.im/post/6844903958624878606)
 * [https](https://www.cnblogs.com/rickiyang/p/13218088.html)
+* [http2](https://juejin.im/post/6844903667569541133)
 * [socket编程](https://segmentfault.com/a/1190000014044351)
 
 ## <a id="others"></a>综合基础
