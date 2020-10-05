@@ -5,9 +5,10 @@
 # 目录 
 
 * [基础知识](#basic)
-  * [javascript](#javascript)
+   * [javascript](#javascript)
    * [css](#css)
    * html
+   * [nodejs](#nodejs)
    * [nginx](#nginx)
    * [网络协议](#net)
    * [综合基础](#others)
@@ -45,6 +46,12 @@
 ## <a id="css"></a>css
 
 * [Grid布局](https://juejin.im/post/5f1e70315188252e937c088b?utm_source=gold_browser_extension)
+
+## <a id="css"></a>css
+
+## <a id="nodejs"></a>nodejs
+
+* [NodeJS充分利用多核CPU以及它的稳定性](https://segmentfault.com/a/1190000007343993)
 
 ## <a id="nginx"></a>nginx
 
