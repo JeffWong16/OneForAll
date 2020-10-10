@@ -69,6 +69,7 @@
 * [移动端适配](https://juejin.im/post/5cddf289f265da038f77696c)
 * [字符与编码](https://www.ruanyifeng.com/blog/2014/12/unicode.html)
 * [为什么我的页面会感到卡顿？](https://www.cnblogs.com/xiaoniuzai/p/6419150.html)
+* [requestIdleCallback](https://juejin.im/post/6844903592831238157)
 
 
 # <a id="browser"></a>浏览器工作原理
