@@ -9,6 +9,7 @@
    * [css](#css)
    * html
    * [nodejs](#nodejs)
+   * [typescript](#typescript)
    * [nginx](#nginx)
    * [网络协议](#net)
    * [综合基础](#others)
@@ -52,6 +53,10 @@
 ## <a id="nodejs"></a>nodejs
 
 * [NodeJS充分利用多核CPU以及它的稳定性](https://segmentfault.com/a/1190000007343993)
+
+## <a id="typescript"></a>typescript
+
+* [keyof](http://www.semlinker.com/ts-keyof/)
 
 ## <a id="nginx"></a>nginx
 
